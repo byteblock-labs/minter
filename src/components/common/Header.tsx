@@ -270,6 +270,9 @@ function NavItems() {
           md: 'flex'
         }}
       >
+        <DesktopHeaderLink to="/mint">
+          <Text ml={2}>Secondary-Mint</Text>
+        </DesktopHeaderLink>
         <DesktopHeaderLink to="/marketplace">
           <Box color="brand.turquoise">
             <RiStore2Line size={16} />

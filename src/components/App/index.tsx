@@ -4,6 +4,7 @@ import CreateNonFungiblePage from '../CreateNonFungiblePage';
 import CollectionsCatalog from '../Collections/Catalog';
 import CollectionDisplay from '../Collections/Catalog/CollectionDisplay';
 import CollectionsTokenDetail from '../Collections/TokenDetail';
+import SecondaryMint from '../SecondaryMint/secondarymint'
 import MarketplaceCatalog from '../Marketplace/Catalog';
 import Header from '../common/Header';
 import { Flex } from '@chakra-ui/react';
@@ -43,6 +44,9 @@ export default function App() {
           </Route>
           <Route path="/create">
             <CreateNonFungiblePage />
+          </Route>
+          <Route path="/mint">
+            <SecondaryMint />
           </Route>
           <Route path="/collections">
             <CollectionsCatalog />
