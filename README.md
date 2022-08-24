@@ -1,4 +1,4 @@
-# minter
+#ByteBlock openminter
 A opensource code to mint NFTs. Cloned from tezos OpenMinter
 
 #Start byteblock openminter
