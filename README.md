@@ -18,7 +18,7 @@ yarn build:mainnet
 You can start the application by yarn comand. It is using one of the contract deployed by ByteBlock. You may deploy your own NFT and marketplace
 contract and use with byteblock openminter.
 
-yarn start:mainnet
+serve -s build
 
 **Use secondary mint feature**
 
