@@ -26,8 +26,11 @@ PFP projects are in boom, that has lot of technical challanges. It includes depl
 supports minting at different stages. Different stages of minting has different minting prices. It also sets the total number of NFTs.
 
 1- Got to http://localhost:5000/mint
+
 2- Enter your contract address (Ex KT1Vx2WKCVQamsTvSxabqZoBe267oJeXkcvt)
+
 3- Select number of unit (Ex 1)
+
 4- Mint
 
 It will mint on any PFP project. Makesure you are using Crowdsale Contract.
