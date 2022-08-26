@@ -1,21 +1,27 @@
 **ByteBlock openminter**
 A opensource code to mint NFTs. Cloned from tezos OpenMinter
 
-*Start byteblock openminter*
+**Start byteblock openminter**
+
 Compile : Before using you must compile the code. Check relevent node and othe package versions.
+
 yarn install
 
-*Build for mainnet*
+**Build for mainnet**
+
 This will create an optimized build
+
 yarn build:mainnet
 
-*Launch byteblock openminter*
+**Launch byteblock openminter**
+
 You can start the application by yarn comand. It is using one of the contract deployed by ByteBlock. You may deploy your own NFT and marketplace
 contract and use with byteblock openminter.
 
 yarn start:mainnet
 
-#Use secondary mint feature
+**Use secondary mint feature**
+
 PFP projects are in boom, that has lot of technical challanges. It includes deploying your Crowdsale Contract and NFT contract, developing your website which
 supports minting at different stages. Different stages of minting has different minting prices. It also sets the total number of NFTs.
 
@@ -26,5 +32,6 @@ supports minting at different stages. Different stages of minting has different 
 
 It will mint on any PFP project. Makesure you are using Crowdsale Contract.
 
-*Support*
+**Support**
+
 Reachout to ByteBlock for any clarification. 
