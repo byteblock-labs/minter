@@ -10,7 +10,7 @@
 	},
 	"admin": {
 		"address": "tz1iX91ZRN4KvFh3XrxGicr11ieeh5x3KDxP",
-		"secret": "edskS4XEbrE3PteeTjdGYysH7WCqTPGrykHczPk4K5NUZsen9Lxv4vKeB1WK9aShNosYK3xZwtp4CVwBJyzYPe1A3kBRK8YqqB"
+		"secret": ""
 	},
 	"ipfsApi": "https://minter-api.tqhosted.com",
 	"ipfsGateway": "https://tqtezos.mypinata.cloud",
