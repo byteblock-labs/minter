@@ -9,7 +9,7 @@
     "@emotion/react": "11.1.4",
     "@emotion/styled": "11.0.0",
     "@reduxjs/toolkit": "1.5.0",
-    "@taquito/beacon-wallet": "9.0.1",
+    "@taquito/beacon-wallet": "9.1.1",
     "@taquito/signer": "9.0.1",
     "@taquito/taquito": "9.0.1",
     "@taquito/tzip12": "9.0.1",
