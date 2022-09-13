@@ -71,6 +71,7 @@
     "start:mainnet": "cp ./config/mainnet.json src/config.json && react-scripts start",
     "start:custom": "cp ./config/custom-bootstrapped.json src/config.json && react-scripts start",
     "build": "react-scripts build",
+    "build:testnet": "cp ./config/testnet.json src/config.json && react-scripts build",
     "build:custom": "cp ./config/custom-bootstrapped.json src/config.json && react-scripts build",
     "build:mainnet": "cp ./config/mainnet.json src/config.json && react-scripts build",
     "test": "react-scripts test",

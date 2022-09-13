@@ -1,12 +1,12 @@
 {
-	"network": "florencenet",
-	"rpc": "https://api.tez.ie/rpc/florencenet",
+	"network": "Jakartanet",
+	"rpc": "https://rpczero.tzbeta.net/",
 	"bcd": {
 		"api": "https://api.better-call.dev",
 		"gui": "https://better-call.dev"
 	},
 	"tzkt": {
-		"api": "https://api.florencenet.tzkt.io"
+		"api": "https://api.jakartanet.tzkt.io/"
 	},
 	"contracts": {
 		"nftFaucet": "KT1DzPX2SHnviWURFUfD5NQ9FcHQVmYFuPYu",
