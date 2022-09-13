@@ -14,6 +14,7 @@ This will create an optimized build
 yarn build:mainnet
 
 **Build for Jakartanet testnet**
+
 We have provided configuration for Jakartanet. config file is available under ./config/testnet.json. 
 yarn install
 yarn build:testnet
@@ -22,6 +23,7 @@ App will start on http://localhost:5000
 
 Deploy your NFT contract and replace the contract address at nftFaucet. replace testnet marketplace 
 contract at marketplace.
+
 **Launch byteblock openminter**
 
 You can start the application by yarn comand. It is using one of the contract deployed by ByteBlock. You may deploy your own NFT and marketplace
