@@ -13,6 +13,8 @@ This will create an optimized build
 
 yarn build:mainnet
 
+yarn global add serve
+
 serve -s build
 
 http://localhost:5000
