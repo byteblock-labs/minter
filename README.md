@@ -13,6 +13,10 @@ This will create an optimized build
 
 yarn build:mainnet
 
+serve -s build
+
+http://localhost:5000
+
 **Build for Jakartanet testnet**
 
 We have provided configuration for Jakartanet. config file is available under ./config/testnet.json. 
